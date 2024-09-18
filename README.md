@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jebbs-dev
-- 👀 I’m interested in technology and agriculture
-- I'm a frontend who is proficient at React, tailwind CSS and webflow.
-- 🌱 I’m currently learning node js.
+- 👋 Hi, I’m Fulness Ojebiyi.
+- 👀 I’m interested in technology and agriculture.
+- I'm a frontend developer and technical writer.
+- 🌱 I’m currently learning backend development.
 - 📫 You can reach me at ojebiyifulness@gmail.com, on twitter @jebbsdev and instagram @ojebiyifulness
 
 <!---
